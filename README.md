@@ -10,6 +10,8 @@ Prosty szablon WordPress na Bootstrapie. Szablon został zbudowany w celu edukac
 - searchform.php
 - style.css -screenshot.png
 - wp_bootstrap_navwalker.php
+
+<strong>wp_bootstrap_navwalker</strong> jest do pobrania <a href="https://github.com/twittem/wp-bootstrap-navwalker">w oficjalnym repozutorium od twórcy</a>.
 	
 <strong>Instrukcja jak zrobiłam szablon na Bootstrapie:</strong>
 <a href="http://www.slideshare.net/EwelinaMuc/jak-zbudowa-szablon-od-podstaw-na-bootstrap-3">SlideShare<a/a>
